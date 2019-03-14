@@ -9,5 +9,5 @@ def fizzbuzz()
   elsif int % 5 == 0
     return "Buzz"
   elsif int % 10 == 0
-    return "fizzbuzz"
+    return "fizzBuzz"
 end
